@@ -76,8 +76,7 @@
 
 - 2019年5月5日，特朗普发推文称，将于本周五（5月10日）开始对中国2000亿美元的输美商品加征25%关税。
 
-- 2019年5月8日，美国贸易代表办公室宣布对华2000亿美元商品关税从10%提升到25%。
-
+- 2019年5月8日，美国贸易代表办公室宣布对华2000亿美元商品关税从10%
 - 2019年5月8日，商务部发言人表示，升级贸易摩擦不符合两国人民和世界人民的利益，中方对此深表遗憾，如果美方关税措施付诸实施，中方将不得不采取必要反制措施。
 
 - 2019年5月10日，美国对中国2000亿美元商品开始加征25%关税。
@@ -92,4 +91,12 @@
 
 - 2019年6月29日，二十国集团大阪峰会(G20大阪峰会)在日本大阪市召开，国家主席习近平同美国总统特朗普在日本大阪举行会晤，中美双方同意在平等和相互尊重的基础上重启经贸磋商。美方表示不再对中国出口产品加征新的关税。两国经贸团队将就具体问题进行讨论。
 
-<div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_visitors/63564-1-6.js"></script></div><img src="http://www.webestools.com/images/ban03.gif" alt="Tools services webmasters counters generators scripts tutorials free" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?59d935c832b5b7009f598afe4c0d0a0c";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
