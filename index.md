@@ -91,3 +91,5 @@
 - 2019年5月17日，美国白宫宣布推迟6个月就是否对进口汽车及零配件加征关税作出决定，并指示美国贸易代表莱特希泽与有关经济体就汽车贸易进行谈判。
 
 - 2019年6月29日，二十国集团大阪峰会(G20大阪峰会)在日本大阪市召开，国家主席习近平同美国总统特朗普在日本大阪举行会晤，中美双方同意在平等和相互尊重的基础上重启经贸磋商。美方表示不再对中国出口产品加征新的关税。两国经贸团队将就具体问题进行讨论。
+
+<div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_visitors/63564-1-6.js"></script></div><a href="http://www.webestools.com/" style="display:block;text-align:center;" title="Tools services webmasters counters generators scripts tutorials free"><img src="http://www.webestools.com/images/ban03.gif" alt="Tools services webmasters counters generators scripts tutorials free" /></a>
