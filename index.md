@@ -1,10 +1,3 @@
----
-layout: post
-title:  "中美贸易战始末"
-date:   2019-06-28 13：46：23 +0800
-author: "刘明丽"
----
-
 ![](https://raw.githubusercontent.com/Bye-lemon/Pictures/master/20190920164726.jpg)
 
 **中美贸易战不是一个突发事件，事实上，自从特朗普上台，中美贸易战就已经爆发了，今年，只是这种贸易摩擦的进一步演化，简单的回顾一下近年来的贸易摩擦：**
